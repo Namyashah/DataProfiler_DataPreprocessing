@@ -1,0 +1,3602 @@
+[
+    {
+        "customer_id": "CUST0001",
+        "name": "Customer_1",
+        "age": 56.0,
+        "gender": "Female",
+        "income": 80004.0,
+        "purchases": 19.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0002",
+        "name": "Customer_2",
+        "age": null,
+        "gender": "Female",
+        "income": 82981.0,
+        "purchases": 18.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0003",
+        "name": "Customer_3",
+        "age": 46.0,
+        "gender": "Male",
+        "income": 104659.0,
+        "purchases": 1.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0004",
+        "name": "Customer_4",
+        "age": null,
+        "gender": "Male",
+        "income": 74553.0,
+        "purchases": 78.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0005",
+        "name": "Customer_5",
+        "age": 60.0,
+        "gender": "Female",
+        "income": 68447.0,
+        "purchases": 47.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0006",
+        "name": "Customer_6",
+        "age": 25.0,
+        "gender": "Male",
+        "income": 54529.0,
+        "purchases": 66.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0007",
+        "name": "Customer_7",
+        "age": 38.0,
+        "gender": "Male",
+        "income": 146394.0,
+        "purchases": 92.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0008",
+        "name": "Customer_8",
+        "age": 56.0,
+        "gender": "Male",
+        "income": 95703.0,
+        "purchases": 94.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0009",
+        "name": "Customer_9",
+        "age": 36.0,
+        "gender": "Male",
+        "income": 96090.0,
+        "purchases": 38.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0010",
+        "name": "Customer_10",
+        "age": 40.0,
+        "gender": "Female",
+        "income": 37260.0,
+        "purchases": 51.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0011",
+        "name": "Customer_11",
+        "age": 28.0,
+        "gender": "Male",
+        "income": 132581.0,
+        "purchases": 63.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0012",
+        "name": "Customer_12",
+        "age": 28.0,
+        "gender": "Female",
+        "income": 23812.0,
+        "purchases": 4.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0013",
+        "name": "Customer_13",
+        "age": null,
+        "gender": "Female",
+        "income": 48024.0,
+        "purchases": 1.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0014",
+        "name": "Customer_14",
+        "age": 53.0,
+        "gender": "Male",
+        "income": 78656.0,
+        "purchases": 8.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0015",
+        "name": "Customer_15",
+        "age": 57.0,
+        "gender": "Male",
+        "income": null,
+        "purchases": 29.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0016",
+        "name": "Customer_16",
+        "age": 41.0,
+        "gender": "Male",
+        "income": 47285.0,
+        "purchases": 55.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0017",
+        "name": "Customer_17",
+        "age": 20.0,
+        "gender": "Female",
+        "income": 112436.0,
+        "purchases": 3.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0018",
+        "name": "Customer_18",
+        "age": 39.0,
+        "gender": "Male",
+        "income": 136421.0,
+        "purchases": 32.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0019",
+        "name": "Customer_19",
+        "age": 19.0,
+        "gender": "Male",
+        "income": 21605.0,
+        "purchases": 10.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0020",
+        "name": "Customer_20",
+        "age": 41.0,
+        "gender": "Female",
+        "income": 91158.0,
+        "purchases": 74.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0021",
+        "name": "Customer_21",
+        "age": 61.0,
+        "gender": "Male",
+        "income": 92303.0,
+        "purchases": 83.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0022",
+        "name": "Customer_22",
+        "age": 47.0,
+        "gender": "Male",
+        "income": 47139.0,
+        "purchases": 34.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0023",
+        "name": "Customer_23",
+        "age": 55.0,
+        "gender": "Male",
+        "income": 97149.0,
+        "purchases": 97.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0024",
+        "name": "Customer_24",
+        "age": 19.0,
+        "gender": "Male",
+        "income": 76138.0,
+        "purchases": 87.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0025",
+        "name": "Customer_25",
+        "age": 38.0,
+        "gender": "Female",
+        "income": 138205.0,
+        "purchases": 55.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0026",
+        "name": "Customer_26",
+        "age": 50.0,
+        "gender": "Male",
+        "income": 96125.0,
+        "purchases": 92.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0027",
+        "name": "Customer_27",
+        "age": 29.0,
+        "gender": "Female",
+        "income": 33918.0,
+        "purchases": 32.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0028",
+        "name": "Customer_28",
+        "age": 39.0,
+        "gender": "Male",
+        "income": 105655.0,
+        "purchases": 50.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0029",
+        "name": "Customer_29",
+        "age": 61.0,
+        "gender": "Female",
+        "income": 47446.0,
+        "purchases": 7.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0030",
+        "name": "Customer_30",
+        "age": 42.0,
+        "gender": "Male",
+        "income": 144040.0,
+        "purchases": 93.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0031",
+        "name": "Customer_31",
+        "age": 66.0,
+        "gender": "Male",
+        "income": 33046.0,
+        "purchases": 8.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0032",
+        "name": "Customer_32",
+        "age": 44.0,
+        "gender": "Other",
+        "income": 149922.0,
+        "purchases": 65.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0033",
+        "name": "Customer_33",
+        "age": 59.0,
+        "gender": "Female",
+        "income": 44818.0,
+        "purchases": null,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0034",
+        "name": "Customer_34",
+        "age": 45.0,
+        "gender": "Female",
+        "income": 120894.0,
+        "purchases": 67.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0035",
+        "name": "Customer_35",
+        "age": 33.0,
+        "gender": "Male",
+        "income": 135751.0,
+        "purchases": 88.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0036",
+        "name": "Customer_36",
+        "age": 32.0,
+        "gender": "Male",
+        "income": 24324.0,
+        "purchases": 87.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0037",
+        "name": "Customer_37",
+        "age": 64.0,
+        "gender": "Male",
+        "income": 96323.0,
+        "purchases": 59.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0038",
+        "name": "Customer_38",
+        "age": 68.0,
+        "gender": null,
+        "income": 29111.0,
+        "purchases": 72.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0039",
+        "name": "Customer_39",
+        "age": 61.0,
+        "gender": "Male",
+        "income": 58110.0,
+        "purchases": 54.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0040",
+        "name": "Customer_40",
+        "age": 69.0,
+        "gender": "Female",
+        "income": 36389.0,
+        "purchases": 67.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0041",
+        "name": "Customer_41",
+        "age": 20.0,
+        "gender": "Male",
+        "income": 142177.0,
+        "purchases": 51.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0042",
+        "name": "Customer_42",
+        "age": 54.0,
+        "gender": "Other",
+        "income": 61427.0,
+        "purchases": 97.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0043",
+        "name": "Customer_43",
+        "age": 68.0,
+        "gender": "Male",
+        "income": 99579.0,
+        "purchases": 92.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0044",
+        "name": "Customer_44",
+        "age": 24.0,
+        "gender": "Female",
+        "income": 48746.0,
+        "purchases": 8.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0045",
+        "name": "Customer_45",
+        "age": 38.0,
+        "gender": "Male",
+        "income": 142883.0,
+        "purchases": 34.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0046",
+        "name": "Customer_46",
+        "age": 26.0,
+        "gender": "Male",
+        "income": 107886.0,
+        "purchases": null,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0047",
+        "name": "Customer_47",
+        "age": 56.0,
+        "gender": "Female",
+        "income": 127141.0,
+        "purchases": 96.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0048",
+        "name": "Customer_48",
+        "age": 35.0,
+        "gender": "Male",
+        "income": 20117.0,
+        "purchases": 88.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0049",
+        "name": "Customer_49",
+        "age": 21.0,
+        "gender": "Male",
+        "income": 145808.0,
+        "purchases": null,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0050",
+        "name": "Customer_50",
+        "age": 42.0,
+        "gender": "Other",
+        "income": 132221.0,
+        "purchases": 32.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0051",
+        "name": "Customer_51",
+        "age": 31.0,
+        "gender": "Female",
+        "income": null,
+        "purchases": 46.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0052",
+        "name": "Customer_52",
+        "age": 67.0,
+        "gender": "Male",
+        "income": 132613.0,
+        "purchases": 16.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0053",
+        "name": "Customer_53",
+        "age": 26.0,
+        "gender": "Male",
+        "income": 33234.0,
+        "purchases": 68.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0054",
+        "name": "Customer_54",
+        "age": 43.0,
+        "gender": "Male",
+        "income": 149597.0,
+        "purchases": 37.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0055",
+        "name": "Customer_55",
+        "age": 19.0,
+        "gender": "Female",
+        "income": 123864.0,
+        "purchases": 54.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0056",
+        "name": "Customer_56",
+        "age": 37.0,
+        "gender": "Male",
+        "income": 73441.0,
+        "purchases": 85.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0057",
+        "name": "Customer_57",
+        "age": 45.0,
+        "gender": "Male",
+        "income": 20846.0,
+        "purchases": 14.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0058",
+        "name": "Customer_58",
+        "age": 64.0,
+        "gender": "Male",
+        "income": 30954.0,
+        "purchases": 95.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0059",
+        "name": "Customer_59",
+        "age": 24.0,
+        "gender": "Male",
+        "income": 99239.0,
+        "purchases": 55.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0060",
+        "name": "Customer_60",
+        "age": 61.0,
+        "gender": null,
+        "income": 133689.0,
+        "purchases": 48.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0061",
+        "name": "Customer_61",
+        "age": 25.0,
+        "gender": "Male",
+        "income": 66514.0,
+        "purchases": 82.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0062",
+        "name": "Customer_62",
+        "age": 64.0,
+        "gender": "Female",
+        "income": 108236.0,
+        "purchases": 7.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0063",
+        "name": "Customer_63",
+        "age": 52.0,
+        "gender": null,
+        "income": 117579.0,
+        "purchases": 74.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0064",
+        "name": "Customer_64",
+        "age": 31.0,
+        "gender": "Male",
+        "income": 148644.0,
+        "purchases": 7.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0065",
+        "name": "Customer_65",
+        "age": 34.0,
+        "gender": "Male",
+        "income": 26469.0,
+        "purchases": 33.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0066",
+        "name": "Customer_66",
+        "age": 53.0,
+        "gender": "Male",
+        "income": 50105.0,
+        "purchases": 23.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0067",
+        "name": "Customer_67",
+        "age": 67.0,
+        "gender": "Female",
+        "income": 62101.0,
+        "purchases": 85.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0068",
+        "name": "Customer_68",
+        "age": null,
+        "gender": "Female",
+        "income": null,
+        "purchases": 19.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0069",
+        "name": "Customer_69",
+        "age": 21.0,
+        "gender": "Female",
+        "income": 111922.0,
+        "purchases": 19.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0070",
+        "name": "Customer_70",
+        "age": 19.0,
+        "gender": null,
+        "income": 78067.0,
+        "purchases": 36.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0071",
+        "name": "Customer_71",
+        "age": 23.0,
+        "gender": "Male",
+        "income": 69376.0,
+        "purchases": 29.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0072",
+        "name": "Customer_72",
+        "age": 59.0,
+        "gender": "Female",
+        "income": 65587.0,
+        "purchases": 60.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0073",
+        "name": "Customer_73",
+        "age": 21.0,
+        "gender": "Male",
+        "income": 56976.0,
+        "purchases": 82.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0074",
+        "name": "Customer_74",
+        "age": 46.0,
+        "gender": "Female",
+        "income": 124587.0,
+        "purchases": 2.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0075",
+        "name": "Customer_75",
+        "age": 35.0,
+        "gender": "Male",
+        "income": 147534.0,
+        "purchases": 1.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0076",
+        "name": "Customer_76",
+        "age": 43.0,
+        "gender": null,
+        "income": null,
+        "purchases": 47.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0077",
+        "name": "Customer_77",
+        "age": 61.0,
+        "gender": "Male",
+        "income": 124537.0,
+        "purchases": 69.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0078",
+        "name": "Customer_78",
+        "age": 51.0,
+        "gender": "Male",
+        "income": 98477.0,
+        "purchases": 20.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0079",
+        "name": "Customer_79",
+        "age": 27.0,
+        "gender": "Male",
+        "income": 130911.0,
+        "purchases": 11.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0080",
+        "name": "Customer_80",
+        "age": 53.0,
+        "gender": "Male",
+        "income": 62533.0,
+        "purchases": 2.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0081",
+        "name": "Customer_81",
+        "age": 31.0,
+        "gender": "Other",
+        "income": 21828.0,
+        "purchases": 67.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0082",
+        "name": "Customer_82",
+        "age": 48.0,
+        "gender": "Male",
+        "income": null,
+        "purchases": 87.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0083",
+        "name": "Customer_83",
+        "age": 65.0,
+        "gender": "Male",
+        "income": 40618.0,
+        "purchases": 12.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0084",
+        "name": "Customer_84",
+        "age": 32.0,
+        "gender": "Female",
+        "income": 52254.0,
+        "purchases": 20.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0085",
+        "name": "Customer_85",
+        "age": 25.0,
+        "gender": "Female",
+        "income": 125292.0,
+        "purchases": 5.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0086",
+        "name": "Customer_86",
+        "age": 31.0,
+        "gender": "Male",
+        "income": 136714.0,
+        "purchases": 37.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0087",
+        "name": "Customer_87",
+        "age": 40.0,
+        "gender": "Male",
+        "income": 67362.0,
+        "purchases": 38.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0088",
+        "name": "Customer_88",
+        "age": 57.0,
+        "gender": "Female",
+        "income": 40128.0,
+        "purchases": 94.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0089",
+        "name": "Customer_89",
+        "age": 38.0,
+        "gender": "Male",
+        "income": 143781.0,
+        "purchases": 9.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0090",
+        "name": "Customer_90",
+        "age": 33.0,
+        "gender": "Female",
+        "income": 131281.0,
+        "purchases": null,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0091",
+        "name": "Customer_91",
+        "age": null,
+        "gender": "Female",
+        "income": 79383.0,
+        "purchases": 53.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0092",
+        "name": "Customer_92",
+        "age": 35.0,
+        "gender": "Male",
+        "income": 85545.0,
+        "purchases": 44.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0093",
+        "name": "Customer_93",
+        "age": 64.0,
+        "gender": "Male",
+        "income": 102180.0,
+        "purchases": 99.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0094",
+        "name": "Customer_94",
+        "age": 41.0,
+        "gender": "Female",
+        "income": 107958.0,
+        "purchases": 86.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0095",
+        "name": "Customer_95",
+        "age": 43.0,
+        "gender": "Female",
+        "income": null,
+        "purchases": 24.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0096",
+        "name": "Customer_96",
+        "age": 42.0,
+        "gender": "Female",
+        "income": 22219.0,
+        "purchases": 81.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0097",
+        "name": "Customer_97",
+        "age": null,
+        "gender": "Female",
+        "income": 59809.0,
+        "purchases": 74.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0098",
+        "name": "Customer_98",
+        "age": 58.0,
+        "gender": "Female",
+        "income": 136748.0,
+        "purchases": 30.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0099",
+        "name": "Customer_99",
+        "age": 46.0,
+        "gender": "Female",
+        "income": 25287.0,
+        "purchases": 59.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0100",
+        "name": "Customer_100",
+        "age": 32.0,
+        "gender": "Female",
+        "income": 146593.0,
+        "purchases": 87.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0101",
+        "name": "Customer_101",
+        "age": 62.0,
+        "gender": "Female",
+        "income": 54387.0,
+        "purchases": 96.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0102",
+        "name": "Customer_102",
+        "age": 18.0,
+        "gender": "Female",
+        "income": 28512.0,
+        "purchases": 81.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0103",
+        "name": "Customer_103",
+        "age": 42.0,
+        "gender": "Female",
+        "income": 21342.0,
+        "purchases": 81.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0104",
+        "name": "Customer_104",
+        "age": 24.0,
+        "gender": "Female",
+        "income": 83076.0,
+        "purchases": 14.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0105",
+        "name": "Customer_105",
+        "age": 26.0,
+        "gender": "Female",
+        "income": 128872.0,
+        "purchases": 9.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0106",
+        "name": "Customer_106",
+        "age": 41.0,
+        "gender": "Male",
+        "income": 39216.0,
+        "purchases": 40.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0107",
+        "name": "Customer_107",
+        "age": 18.0,
+        "gender": "Female",
+        "income": 137512.0,
+        "purchases": 66.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0108",
+        "name": "Customer_108",
+        "age": 61.0,
+        "gender": "Female",
+        "income": 136682.0,
+        "purchases": 25.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0109",
+        "name": "Customer_109",
+        "age": 25.0,
+        "gender": "Female",
+        "income": 113070.0,
+        "purchases": 73.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0110",
+        "name": "Customer_110",
+        "age": 41.0,
+        "gender": "Female",
+        "income": 99767.0,
+        "purchases": 22.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0111",
+        "name": "Customer_111",
+        "age": 28.0,
+        "gender": "Female",
+        "income": 117829.0,
+        "purchases": 4.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0112",
+        "name": "Customer_112",
+        "age": 68.0,
+        "gender": "Male",
+        "income": 46614.0,
+        "purchases": 26.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0113",
+        "name": "Customer_113",
+        "age": 34.0,
+        "gender": "Male",
+        "income": 56258.0,
+        "purchases": null,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0114",
+        "name": "Customer_114",
+        "age": 25.0,
+        "gender": "Male",
+        "income": 113789.0,
+        "purchases": 29.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0115",
+        "name": "Customer_115",
+        "age": 52.0,
+        "gender": "Male",
+        "income": 62078.0,
+        "purchases": 98.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0116",
+        "name": "Customer_116",
+        "age": 52.0,
+        "gender": "Male",
+        "income": 126288.0,
+        "purchases": 87.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0117",
+        "name": "Customer_117",
+        "age": 50.0,
+        "gender": "Female",
+        "income": 103524.0,
+        "purchases": 37.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0118",
+        "name": "Customer_118",
+        "age": null,
+        "gender": null,
+        "income": 116573.0,
+        "purchases": 75.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0119",
+        "name": "Customer_119",
+        "age": 59.0,
+        "gender": "Female",
+        "income": 32219.0,
+        "purchases": 70.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0120",
+        "name": "Customer_120",
+        "age": 56.0,
+        "gender": "Male",
+        "income": 20235.0,
+        "purchases": 18.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0121",
+        "name": "Customer_121",
+        "age": 58.0,
+        "gender": "Female",
+        "income": 62929.0,
+        "purchases": 85.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0122",
+        "name": "Customer_122",
+        "age": 45.0,
+        "gender": "Male",
+        "income": 147309.0,
+        "purchases": 42.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0123",
+        "name": "Customer_123",
+        "age": 24.0,
+        "gender": "Male",
+        "income": 87444.0,
+        "purchases": 41.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0124",
+        "name": "Customer_124",
+        "age": 26.0,
+        "gender": "Female",
+        "income": 28567.0,
+        "purchases": 38.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0125",
+        "name": "Customer_125",
+        "age": 25.0,
+        "gender": "Female",
+        "income": 121834.0,
+        "purchases": 34.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0126",
+        "name": "Customer_126",
+        "age": 29.0,
+        "gender": "Male",
+        "income": 90792.0,
+        "purchases": null,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0127",
+        "name": "Customer_127",
+        "age": 51.0,
+        "gender": "Female",
+        "income": 85441.0,
+        "purchases": 37.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0128",
+        "name": "Customer_128",
+        "age": 50.0,
+        "gender": "Male",
+        "income": 104555.0,
+        "purchases": 25.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0129",
+        "name": "Customer_129",
+        "age": 65.0,
+        "gender": "Male",
+        "income": 93698.0,
+        "purchases": 76.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0130",
+        "name": "Customer_130",
+        "age": 40.0,
+        "gender": "Other",
+        "income": 144450.0,
+        "purchases": 87.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0131",
+        "name": "Customer_131",
+        "age": 41.0,
+        "gender": "Female",
+        "income": 137248.0,
+        "purchases": 86.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0132",
+        "name": "Customer_132",
+        "age": 54.0,
+        "gender": "Male",
+        "income": 25415.0,
+        "purchases": 85.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0133",
+        "name": "Customer_133",
+        "age": 52.0,
+        "gender": "Female",
+        "income": 56159.0,
+        "purchases": 27.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0134",
+        "name": "Customer_134",
+        "age": 61.0,
+        "gender": null,
+        "income": 63925.0,
+        "purchases": 57.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0135",
+        "name": "Customer_135",
+        "age": 57.0,
+        "gender": "Female",
+        "income": 146523.0,
+        "purchases": 31.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0136",
+        "name": "Customer_136",
+        "age": 39.0,
+        "gender": "Male",
+        "income": 25951.0,
+        "purchases": null,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0137",
+        "name": "Customer_137",
+        "age": 44.0,
+        "gender": "Male",
+        "income": 107388.0,
+        "purchases": null,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0138",
+        "name": "Customer_138",
+        "age": 52.0,
+        "gender": "Female",
+        "income": 28007.0,
+        "purchases": 40.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0139",
+        "name": "Customer_139",
+        "age": 18.0,
+        "gender": "Female",
+        "income": 146730.0,
+        "purchases": 98.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0140",
+        "name": "Customer_140",
+        "age": 52.0,
+        "gender": "Female",
+        "income": 61832.0,
+        "purchases": 12.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0141",
+        "name": "Customer_141",
+        "age": 54.0,
+        "gender": "Male",
+        "income": 78596.0,
+        "purchases": 53.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0142",
+        "name": "Customer_142",
+        "age": 64.0,
+        "gender": "Female",
+        "income": 141101.0,
+        "purchases": 71.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0143",
+        "name": "Customer_143",
+        "age": 31.0,
+        "gender": "Female",
+        "income": 50523.0,
+        "purchases": 10.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0144",
+        "name": "Customer_144",
+        "age": 20.0,
+        "gender": "Male",
+        "income": 108861.0,
+        "purchases": null,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0145",
+        "name": "Customer_145",
+        "age": 18.0,
+        "gender": "Male",
+        "income": 144194.0,
+        "purchases": 17.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0146",
+        "name": "Customer_146",
+        "age": 22.0,
+        "gender": "Female",
+        "income": 106740.0,
+        "purchases": 26.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0147",
+        "name": "Customer_147",
+        "age": 43.0,
+        "gender": "Female",
+        "income": 35524.0,
+        "purchases": 85.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0148",
+        "name": "Customer_148",
+        "age": 31.0,
+        "gender": "Male",
+        "income": 149028.0,
+        "purchases": 92.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0149",
+        "name": "Customer_149",
+        "age": 56.0,
+        "gender": "Male",
+        "income": 39282.0,
+        "purchases": 62.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0150",
+        "name": "Customer_150",
+        "age": 44.0,
+        "gender": "Male",
+        "income": 43930.0,
+        "purchases": 46.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0151",
+        "name": "Customer_151",
+        "age": 26.0,
+        "gender": "Male",
+        "income": 20077.0,
+        "purchases": 64.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0152",
+        "name": "Customer_152",
+        "age": 32.0,
+        "gender": "Female",
+        "income": 125881.0,
+        "purchases": 2.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0153",
+        "name": "Customer_153",
+        "age": 32.0,
+        "gender": "Female",
+        "income": 145501.0,
+        "purchases": 54.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0154",
+        "name": "Customer_154",
+        "age": 43.0,
+        "gender": "Male",
+        "income": 40611.0,
+        "purchases": 65.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0155",
+        "name": "Customer_155",
+        "age": 59.0,
+        "gender": "Female",
+        "income": 36984.0,
+        "purchases": 51.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0156",
+        "name": "Customer_156",
+        "age": 30.0,
+        "gender": "Female",
+        "income": 34060.0,
+        "purchases": 53.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0157",
+        "name": "Customer_157",
+        "age": 68.0,
+        "gender": "Female",
+        "income": null,
+        "purchases": 36.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0158",
+        "name": "Customer_158",
+        "age": 49.0,
+        "gender": "Female",
+        "income": 104056.0,
+        "purchases": 26.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0159",
+        "name": "Customer_159",
+        "age": 56.0,
+        "gender": "Male",
+        "income": 145329.0,
+        "purchases": 29.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0160",
+        "name": "Customer_160",
+        "age": 66.0,
+        "gender": "Male",
+        "income": 63303.0,
+        "purchases": 21.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0161",
+        "name": "Customer_161",
+        "age": 69.0,
+        "gender": "Female",
+        "income": 79207.0,
+        "purchases": 11.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0162",
+        "name": "Customer_162",
+        "age": 49.0,
+        "gender": "Female",
+        "income": 95046.0,
+        "purchases": 40.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0163",
+        "name": "Customer_163",
+        "age": 21.0,
+        "gender": "Male",
+        "income": null,
+        "purchases": 11.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0164",
+        "name": "Customer_164",
+        "age": 47.0,
+        "gender": "Female",
+        "income": null,
+        "purchases": 36.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0165",
+        "name": "Customer_165",
+        "age": 54.0,
+        "gender": "Female",
+        "income": 59711.0,
+        "purchases": 59.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0166",
+        "name": "Customer_166",
+        "age": 40.0,
+        "gender": null,
+        "income": 31954.0,
+        "purchases": 39.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0167",
+        "name": "Customer_167",
+        "age": 56.0,
+        "gender": "Female",
+        "income": 93340.0,
+        "purchases": 99.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0168",
+        "name": "Customer_168",
+        "age": 62.0,
+        "gender": "Other",
+        "income": 92101.0,
+        "purchases": 54.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0169",
+        "name": "Customer_169",
+        "age": 32.0,
+        "gender": "Other",
+        "income": 91520.0,
+        "purchases": null,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0170",
+        "name": "Customer_170",
+        "age": 60.0,
+        "gender": "Male",
+        "income": 107062.0,
+        "purchases": 55.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0171",
+        "name": "Customer_171",
+        "age": 46.0,
+        "gender": "Female",
+        "income": 122974.0,
+        "purchases": 24.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0172",
+        "name": "Customer_172",
+        "age": 53.0,
+        "gender": "Female",
+        "income": 38574.0,
+        "purchases": 22.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0173",
+        "name": "Customer_173",
+        "age": 30.0,
+        "gender": "Female",
+        "income": 29184.0,
+        "purchases": 69.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0174",
+        "name": "Customer_174",
+        "age": 49.0,
+        "gender": "Other",
+        "income": 39096.0,
+        "purchases": 56.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0175",
+        "name": "Customer_175",
+        "age": 24.0,
+        "gender": "Female",
+        "income": 87728.0,
+        "purchases": 33.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0176",
+        "name": "Customer_176",
+        "age": 68.0,
+        "gender": "Female",
+        "income": 54016.0,
+        "purchases": 36.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0177",
+        "name": "Customer_177",
+        "age": 39.0,
+        "gender": "Female",
+        "income": 31246.0,
+        "purchases": 20.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0178",
+        "name": "Customer_178",
+        "age": 45.0,
+        "gender": "Female",
+        "income": 65558.0,
+        "purchases": 83.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0179",
+        "name": "Customer_179",
+        "age": 19.0,
+        "gender": "Male",
+        "income": 138721.0,
+        "purchases": 99.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0180",
+        "name": "Customer_180",
+        "age": 59.0,
+        "gender": "Male",
+        "income": 38381.0,
+        "purchases": 81.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0181",
+        "name": "Customer_181",
+        "age": 62.0,
+        "gender": "Male",
+        "income": 147796.0,
+        "purchases": 62.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0182",
+        "name": "Customer_182",
+        "age": 23.0,
+        "gender": null,
+        "income": 56455.0,
+        "purchases": 98.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0183",
+        "name": "Customer_183",
+        "age": 45.0,
+        "gender": "Male",
+        "income": 112263.0,
+        "purchases": 73.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0184",
+        "name": "Customer_184",
+        "age": 45.0,
+        "gender": "Female",
+        "income": 24018.0,
+        "purchases": 26.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0185",
+        "name": "Customer_185",
+        "age": 61.0,
+        "gender": "Male",
+        "income": 31302.0,
+        "purchases": 66.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0186",
+        "name": "Customer_186",
+        "age": 61.0,
+        "gender": "Female",
+        "income": 87506.0,
+        "purchases": 73.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0187",
+        "name": "Customer_187",
+        "age": 37.0,
+        "gender": "Female",
+        "income": 61157.0,
+        "purchases": 73.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0188",
+        "name": "Customer_188",
+        "age": 47.0,
+        "gender": "Female",
+        "income": 74917.0,
+        "purchases": 40.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0189",
+        "name": "Customer_189",
+        "age": 28.0,
+        "gender": "Male",
+        "income": 112738.0,
+        "purchases": 17.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0190",
+        "name": "Customer_190",
+        "age": 45.0,
+        "gender": "Female",
+        "income": 116646.0,
+        "purchases": 1.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0191",
+        "name": "Customer_191",
+        "age": 42.0,
+        "gender": "Female",
+        "income": 103122.0,
+        "purchases": 89.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0192",
+        "name": "Customer_192",
+        "age": null,
+        "gender": "Male",
+        "income": 44519.0,
+        "purchases": 61.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0193",
+        "name": "Customer_193",
+        "age": 50.0,
+        "gender": "Female",
+        "income": 116809.0,
+        "purchases": 43.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0194",
+        "name": "Customer_194",
+        "age": 18.0,
+        "gender": "Female",
+        "income": 107487.0,
+        "purchases": 42.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0195",
+        "name": "Customer_195",
+        "age": 44.0,
+        "gender": "Male",
+        "income": 76819.0,
+        "purchases": 25.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0196",
+        "name": "Customer_196",
+        "age": 69.0,
+        "gender": "Female",
+        "income": 100910.0,
+        "purchases": 39.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0197",
+        "name": "Customer_197",
+        "age": 30.0,
+        "gender": "Male",
+        "income": 140430.0,
+        "purchases": 35.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0198",
+        "name": "Customer_198",
+        "age": 58.0,
+        "gender": "Male",
+        "income": 91324.0,
+        "purchases": 3.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0199",
+        "name": "Customer_199",
+        "age": 20.0,
+        "gender": "Male",
+        "income": 25408.0,
+        "purchases": 44.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0200",
+        "name": "Customer_200",
+        "age": 56.0,
+        "gender": "Male",
+        "income": 79379.0,
+        "purchases": 51.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0201",
+        "name": "Customer_201",
+        "age": 23.0,
+        "gender": "Male",
+        "income": 45053.0,
+        "purchases": null,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0202",
+        "name": "Customer_202",
+        "age": 25.0,
+        "gender": "Female",
+        "income": 29446.0,
+        "purchases": 98.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0203",
+        "name": "Customer_203",
+        "age": 44.0,
+        "gender": null,
+        "income": 20922.0,
+        "purchases": 12.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0204",
+        "name": "Customer_204",
+        "age": 26.0,
+        "gender": "Female",
+        "income": 118723.0,
+        "purchases": 19.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0205",
+        "name": "Customer_205",
+        "age": 54.0,
+        "gender": "Female",
+        "income": 71356.0,
+        "purchases": 44.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0206",
+        "name": "Customer_206",
+        "age": 50.0,
+        "gender": "Female",
+        "income": 30789.0,
+        "purchases": 59.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0207",
+        "name": "Customer_207",
+        "age": 68.0,
+        "gender": "Female",
+        "income": 117720.0,
+        "purchases": 49.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0208",
+        "name": "Customer_208",
+        "age": 59.0,
+        "gender": "Male",
+        "income": 86656.0,
+        "purchases": null,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0209",
+        "name": "Customer_209",
+        "age": 61.0,
+        "gender": "Male",
+        "income": 64028.0,
+        "purchases": 17.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0210",
+        "name": "Customer_210",
+        "age": null,
+        "gender": "Male",
+        "income": 84484.0,
+        "purchases": 74.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0211",
+        "name": "Customer_211",
+        "age": 32.0,
+        "gender": "Male",
+        "income": 52154.0,
+        "purchases": 57.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0212",
+        "name": "Customer_212",
+        "age": 49.0,
+        "gender": "Female",
+        "income": 102870.0,
+        "purchases": 55.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0213",
+        "name": "Customer_213",
+        "age": 49.0,
+        "gender": "Male",
+        "income": 22336.0,
+        "purchases": 47.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0214",
+        "name": "Customer_214",
+        "age": 41.0,
+        "gender": "Female",
+        "income": 123677.0,
+        "purchases": 12.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0215",
+        "name": "Customer_215",
+        "age": 58.0,
+        "gender": "Other",
+        "income": 87779.0,
+        "purchases": 62.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0216",
+        "name": "Customer_216",
+        "age": 69.0,
+        "gender": "Female",
+        "income": 39029.0,
+        "purchases": 80.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0217",
+        "name": "Customer_217",
+        "age": 66.0,
+        "gender": "Male",
+        "income": 79201.0,
+        "purchases": 88.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0218",
+        "name": "Customer_218",
+        "age": 66.0,
+        "gender": "Male",
+        "income": 52265.0,
+        "purchases": 83.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0219",
+        "name": "Customer_219",
+        "age": 69.0,
+        "gender": "Female",
+        "income": 122916.0,
+        "purchases": 8.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0220",
+        "name": "Customer_220",
+        "age": 29.0,
+        "gender": "Female",
+        "income": 132250.0,
+        "purchases": 95.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0221",
+        "name": "Customer_221",
+        "age": 56.0,
+        "gender": "Male",
+        "income": 136553.0,
+        "purchases": 21.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0222",
+        "name": "Customer_222",
+        "age": 19.0,
+        "gender": "Female",
+        "income": 63872.0,
+        "purchases": 81.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0223",
+        "name": "Customer_223",
+        "age": 20.0,
+        "gender": "Male",
+        "income": 66197.0,
+        "purchases": 87.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0224",
+        "name": "Customer_224",
+        "age": 66.0,
+        "gender": "Male",
+        "income": 145733.0,
+        "purchases": 80.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0225",
+        "name": "Customer_225",
+        "age": 54.0,
+        "gender": "Male",
+        "income": 75180.0,
+        "purchases": 70.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0226",
+        "name": "Customer_226",
+        "age": 66.0,
+        "gender": "Male",
+        "income": 43710.0,
+        "purchases": 72.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0227",
+        "name": "Customer_227",
+        "age": 34.0,
+        "gender": "Other",
+        "income": 49486.0,
+        "purchases": 25.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0228",
+        "name": "Customer_228",
+        "age": 66.0,
+        "gender": "Female",
+        "income": 91907.0,
+        "purchases": 82.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0229",
+        "name": "Customer_229",
+        "age": 19.0,
+        "gender": "Male",
+        "income": 148876.0,
+        "purchases": 89.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0230",
+        "name": "Customer_230",
+        "age": 19.0,
+        "gender": "Female",
+        "income": 91895.0,
+        "purchases": 12.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0231",
+        "name": "Customer_231",
+        "age": 45.0,
+        "gender": "Female",
+        "income": 84435.0,
+        "purchases": 15.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0232",
+        "name": "Customer_232",
+        "age": 40.0,
+        "gender": "Female",
+        "income": 60631.0,
+        "purchases": 59.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0233",
+        "name": "Customer_233",
+        "age": 54.0,
+        "gender": null,
+        "income": 149038.0,
+        "purchases": 26.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0234",
+        "name": "Customer_234",
+        "age": 49.0,
+        "gender": "Male",
+        "income": 121532.0,
+        "purchases": 26.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0235",
+        "name": "Customer_235",
+        "age": 50.0,
+        "gender": "Male",
+        "income": 40103.0,
+        "purchases": 47.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0236",
+        "name": "Customer_236",
+        "age": 18.0,
+        "gender": "Male",
+        "income": 84772.0,
+        "purchases": 32.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0237",
+        "name": "Customer_237",
+        "age": null,
+        "gender": "Male",
+        "income": 146108.0,
+        "purchases": null,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0238",
+        "name": "Customer_238",
+        "age": 19.0,
+        "gender": null,
+        "income": 34382.0,
+        "purchases": 16.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0239",
+        "name": "Customer_239",
+        "age": 61.0,
+        "gender": "Male",
+        "income": 104291.0,
+        "purchases": 71.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0240",
+        "name": "Customer_240",
+        "age": 43.0,
+        "gender": "Male",
+        "income": 121195.0,
+        "purchases": 17.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0241",
+        "name": "Customer_241",
+        "age": 49.0,
+        "gender": "Male",
+        "income": 23756.0,
+        "purchases": 23.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0242",
+        "name": "Customer_242",
+        "age": 23.0,
+        "gender": "Male",
+        "income": 40609.0,
+        "purchases": 26.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0243",
+        "name": "Customer_243",
+        "age": 49.0,
+        "gender": null,
+        "income": 134074.0,
+        "purchases": 85.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0244",
+        "name": "Customer_244",
+        "age": 21.0,
+        "gender": "Male",
+        "income": 36478.0,
+        "purchases": 86.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0245",
+        "name": "Customer_245",
+        "age": 28.0,
+        "gender": "Male",
+        "income": 120978.0,
+        "purchases": 7.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0246",
+        "name": "Customer_246",
+        "age": 34.0,
+        "gender": "Male",
+        "income": 59666.0,
+        "purchases": 14.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0247",
+        "name": "Customer_247",
+        "age": 55.0,
+        "gender": "Male",
+        "income": 95683.0,
+        "purchases": 79.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0248",
+        "name": "Customer_248",
+        "age": 41.0,
+        "gender": "Female",
+        "income": 119097.0,
+        "purchases": 7.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0249",
+        "name": "Customer_249",
+        "age": 22.0,
+        "gender": "Male",
+        "income": 144714.0,
+        "purchases": 9.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0250",
+        "name": "Customer_250",
+        "age": 69.0,
+        "gender": "Male",
+        "income": 120420.0,
+        "purchases": 48.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0251",
+        "name": "Customer_251",
+        "age": null,
+        "gender": "Male",
+        "income": 91315.0,
+        "purchases": 72.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0252",
+        "name": "Customer_252",
+        "age": 23.0,
+        "gender": "Female",
+        "income": 97834.0,
+        "purchases": 59.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0253",
+        "name": "Customer_253",
+        "age": 39.0,
+        "gender": "Male",
+        "income": null,
+        "purchases": 87.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0254",
+        "name": "Customer_254",
+        "age": 28.0,
+        "gender": "Female",
+        "income": 34153.0,
+        "purchases": 93.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0255",
+        "name": "Customer_255",
+        "age": 65.0,
+        "gender": "Female",
+        "income": null,
+        "purchases": 82.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0256",
+        "name": "Customer_256",
+        "age": 33.0,
+        "gender": "Male",
+        "income": 96325.0,
+        "purchases": 95.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0257",
+        "name": "Customer_257",
+        "age": 50.0,
+        "gender": "Female",
+        "income": 129701.0,
+        "purchases": 94.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0258",
+        "name": "Customer_258",
+        "age": 26.0,
+        "gender": "Female",
+        "income": 32999.0,
+        "purchases": 39.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0259",
+        "name": "Customer_259",
+        "age": 23.0,
+        "gender": "Male",
+        "income": 75318.0,
+        "purchases": 99.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0260",
+        "name": "Customer_260",
+        "age": 33.0,
+        "gender": "Male",
+        "income": 20814.0,
+        "purchases": 18.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0261",
+        "name": "Customer_261",
+        "age": 46.0,
+        "gender": "Female",
+        "income": 135033.0,
+        "purchases": 59.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0262",
+        "name": "Customer_262",
+        "age": 20.0,
+        "gender": "Female",
+        "income": 96077.0,
+        "purchases": 17.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0263",
+        "name": "Customer_263",
+        "age": null,
+        "gender": "Other",
+        "income": 110474.0,
+        "purchases": 14.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0264",
+        "name": "Customer_264",
+        "age": 53.0,
+        "gender": "Male",
+        "income": 22443.0,
+        "purchases": 31.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0265",
+        "name": "Customer_265",
+        "age": 36.0,
+        "gender": "Female",
+        "income": 95993.0,
+        "purchases": 24.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0266",
+        "name": "Customer_266",
+        "age": 43.0,
+        "gender": "Male",
+        "income": 95916.0,
+        "purchases": 99.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0267",
+        "name": "Customer_267",
+        "age": 20.0,
+        "gender": "Female",
+        "income": 93319.0,
+        "purchases": 60.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0268",
+        "name": "Customer_268",
+        "age": 36.0,
+        "gender": "Female",
+        "income": 145885.0,
+        "purchases": 45.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0269",
+        "name": "Customer_269",
+        "age": 37.0,
+        "gender": "Male",
+        "income": 129777.0,
+        "purchases": 98.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0270",
+        "name": "Customer_270",
+        "age": 49.0,
+        "gender": "Male",
+        "income": 37368.0,
+        "purchases": 3.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0271",
+        "name": "Customer_271",
+        "age": 24.0,
+        "gender": "Male",
+        "income": 35328.0,
+        "purchases": 37.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0272",
+        "name": "Customer_272",
+        "age": 69.0,
+        "gender": "Male",
+        "income": 76942.0,
+        "purchases": null,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0273",
+        "name": "Customer_273",
+        "age": 58.0,
+        "gender": "Male",
+        "income": 111751.0,
+        "purchases": 40.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0274",
+        "name": "Customer_274",
+        "age": 50.0,
+        "gender": "Female",
+        "income": 119131.0,
+        "purchases": 90.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0275",
+        "name": "Customer_275",
+        "age": 57.0,
+        "gender": "Female",
+        "income": 47306.0,
+        "purchases": 55.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0276",
+        "name": "Customer_276",
+        "age": 56.0,
+        "gender": "Female",
+        "income": 105451.0,
+        "purchases": 87.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0277",
+        "name": "Customer_277",
+        "age": null,
+        "gender": null,
+        "income": 59915.0,
+        "purchases": 39.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0278",
+        "name": "Customer_278",
+        "age": 57.0,
+        "gender": "Female",
+        "income": 57219.0,
+        "purchases": 15.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0279",
+        "name": "Customer_279",
+        "age": 18.0,
+        "gender": "Female",
+        "income": 100879.0,
+        "purchases": 4.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0280",
+        "name": "Customer_280",
+        "age": 28.0,
+        "gender": "Female",
+        "income": 131939.0,
+        "purchases": 93.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0281",
+        "name": "Customer_281",
+        "age": 45.0,
+        "gender": "Male",
+        "income": 84644.0,
+        "purchases": 86.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0282",
+        "name": "Customer_282",
+        "age": 42.0,
+        "gender": "Male",
+        "income": 80279.0,
+        "purchases": 25.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0283",
+        "name": "Customer_283",
+        "age": 67.0,
+        "gender": "Male",
+        "income": 73028.0,
+        "purchases": 13.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0284",
+        "name": "Customer_284",
+        "age": 40.0,
+        "gender": "Male",
+        "income": 124263.0,
+        "purchases": 82.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0285",
+        "name": "Customer_285",
+        "age": 48.0,
+        "gender": "Male",
+        "income": 20126.0,
+        "purchases": 33.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0286",
+        "name": "Customer_286",
+        "age": 47.0,
+        "gender": "Male",
+        "income": 72329.0,
+        "purchases": 16.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0287",
+        "name": "Customer_287",
+        "age": 59.0,
+        "gender": "Female",
+        "income": 47632.0,
+        "purchases": 42.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0288",
+        "name": "Customer_288",
+        "age": 52.0,
+        "gender": null,
+        "income": 127099.0,
+        "purchases": 66.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0289",
+        "name": "Customer_289",
+        "age": 24.0,
+        "gender": "Male",
+        "income": 85310.0,
+        "purchases": 55.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0290",
+        "name": "Customer_290",
+        "age": 33.0,
+        "gender": "Male",
+        "income": 129945.0,
+        "purchases": 99.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0291",
+        "name": "Customer_291",
+        "age": 43.0,
+        "gender": "Male",
+        "income": 75176.0,
+        "purchases": 42.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0292",
+        "name": "Customer_292",
+        "age": 65.0,
+        "gender": "Female",
+        "income": 139797.0,
+        "purchases": 34.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0293",
+        "name": "Customer_293",
+        "age": 69.0,
+        "gender": "Male",
+        "income": 106066.0,
+        "purchases": 30.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0294",
+        "name": "Customer_294",
+        "age": 66.0,
+        "gender": "Female",
+        "income": 125500.0,
+        "purchases": 13.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0295",
+        "name": "Customer_295",
+        "age": null,
+        "gender": "Male",
+        "income": 146413.0,
+        "purchases": 13.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0296",
+        "name": "Customer_296",
+        "age": 18.0,
+        "gender": "Female",
+        "income": 64327.0,
+        "purchases": 18.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0297",
+        "name": "Customer_297",
+        "age": 65.0,
+        "gender": "Other",
+        "income": 88904.0,
+        "purchases": 32.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0298",
+        "name": "Customer_298",
+        "age": 29.0,
+        "gender": "Male",
+        "income": 23797.0,
+        "purchases": 96.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0299",
+        "name": "Customer_299",
+        "age": 22.0,
+        "gender": "Female",
+        "income": 67882.0,
+        "purchases": 99.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0300",
+        "name": "Customer_300",
+        "age": 54.0,
+        "gender": "Female",
+        "income": 33718.0,
+        "purchases": 39.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0301",
+        "name": "Customer_301",
+        "age": 49.0,
+        "gender": "Female",
+        "income": 54560.0,
+        "purchases": 46.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0302",
+        "name": "Customer_302",
+        "age": 26.0,
+        "gender": "Male",
+        "income": 96589.0,
+        "purchases": 29.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0303",
+        "name": "Customer_303",
+        "age": 58.0,
+        "gender": "Female",
+        "income": 42116.0,
+        "purchases": 62.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0304",
+        "name": "Customer_304",
+        "age": 52.0,
+        "gender": null,
+        "income": 56244.0,
+        "purchases": 93.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0305",
+        "name": "Customer_305",
+        "age": 36.0,
+        "gender": "Female",
+        "income": 121721.0,
+        "purchases": 62.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0306",
+        "name": "Customer_306",
+        "age": 65.0,
+        "gender": "Female",
+        "income": 21645.0,
+        "purchases": null,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0307",
+        "name": "Customer_307",
+        "age": 33.0,
+        "gender": "Female",
+        "income": 67523.0,
+        "purchases": 16.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0308",
+        "name": "Customer_308",
+        "age": 20.0,
+        "gender": "Other",
+        "income": 144085.0,
+        "purchases": 56.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0309",
+        "name": "Customer_309",
+        "age": 37.0,
+        "gender": "Female",
+        "income": null,
+        "purchases": 10.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0310",
+        "name": "Customer_310",
+        "age": 41.0,
+        "gender": "Female",
+        "income": 39256.0,
+        "purchases": 30.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0311",
+        "name": "Customer_311",
+        "age": 50.0,
+        "gender": "Female",
+        "income": 121376.0,
+        "purchases": 25.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0312",
+        "name": "Customer_312",
+        "age": 41.0,
+        "gender": "Male",
+        "income": 120158.0,
+        "purchases": 84.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0313",
+        "name": "Customer_313",
+        "age": 69.0,
+        "gender": "Female",
+        "income": 73173.0,
+        "purchases": 5.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0314",
+        "name": "Customer_314",
+        "age": 28.0,
+        "gender": "Female",
+        "income": 57430.0,
+        "purchases": 65.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0315",
+        "name": "Customer_315",
+        "age": 66.0,
+        "gender": null,
+        "income": 59282.0,
+        "purchases": 94.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0316",
+        "name": "Customer_316",
+        "age": 25.0,
+        "gender": "Female",
+        "income": 139719.0,
+        "purchases": 49.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0317",
+        "name": "Customer_317",
+        "age": 53.0,
+        "gender": "Male",
+        "income": 83374.0,
+        "purchases": 3.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0318",
+        "name": "Customer_318",
+        "age": 55.0,
+        "gender": "Female",
+        "income": 88244.0,
+        "purchases": 45.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0319",
+        "name": "Customer_319",
+        "age": 57.0,
+        "gender": "Female",
+        "income": 31694.0,
+        "purchases": 14.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0320",
+        "name": "Customer_320",
+        "age": null,
+        "gender": "Female",
+        "income": 76264.0,
+        "purchases": 30.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0321",
+        "name": "Customer_321",
+        "age": 52.0,
+        "gender": "Male",
+        "income": 95060.0,
+        "purchases": 68.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0322",
+        "name": "Customer_322",
+        "age": 65.0,
+        "gender": null,
+        "income": 117416.0,
+        "purchases": 18.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0323",
+        "name": "Customer_323",
+        "age": 42.0,
+        "gender": "Female",
+        "income": 77545.0,
+        "purchases": 62.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0324",
+        "name": "Customer_324",
+        "age": 52.0,
+        "gender": "Male",
+        "income": null,
+        "purchases": 37.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0325",
+        "name": "Customer_325",
+        "age": 42.0,
+        "gender": "Male",
+        "income": 59224.0,
+        "purchases": 25.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0326",
+        "name": "Customer_326",
+        "age": 46.0,
+        "gender": "Female",
+        "income": 122516.0,
+        "purchases": 48.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0327",
+        "name": "Customer_327",
+        "age": 35.0,
+        "gender": "Male",
+        "income": 117945.0,
+        "purchases": 65.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0328",
+        "name": "Customer_328",
+        "age": null,
+        "gender": "Male",
+        "income": 33224.0,
+        "purchases": 53.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0329",
+        "name": "Customer_329",
+        "age": 35.0,
+        "gender": "Female",
+        "income": 60738.0,
+        "purchases": 79.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0330",
+        "name": "Customer_330",
+        "age": 19.0,
+        "gender": "Male",
+        "income": 45150.0,
+        "purchases": 73.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0331",
+        "name": "Customer_331",
+        "age": 52.0,
+        "gender": "Female",
+        "income": 83731.0,
+        "purchases": 15.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0332",
+        "name": "Customer_332",
+        "age": null,
+        "gender": "Male",
+        "income": 69688.0,
+        "purchases": 49.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0333",
+        "name": "Customer_333",
+        "age": 58.0,
+        "gender": "Female",
+        "income": 119929.0,
+        "purchases": null,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0334",
+        "name": "Customer_334",
+        "age": 53.0,
+        "gender": "Male",
+        "income": 128618.0,
+        "purchases": 68.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0335",
+        "name": "Customer_335",
+        "age": 50.0,
+        "gender": "Female",
+        "income": 93509.0,
+        "purchases": 12.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0336",
+        "name": "Customer_336",
+        "age": 21.0,
+        "gender": "Male",
+        "income": 28577.0,
+        "purchases": 59.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0337",
+        "name": "Customer_337",
+        "age": 50.0,
+        "gender": "Female",
+        "income": null,
+        "purchases": 37.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0338",
+        "name": "Customer_338",
+        "age": null,
+        "gender": "Male",
+        "income": 146161.0,
+        "purchases": 61.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0339",
+        "name": "Customer_339",
+        "age": 38.0,
+        "gender": "Female",
+        "income": 28666.0,
+        "purchases": 43.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0340",
+        "name": "Customer_340",
+        "age": 65.0,
+        "gender": "Female",
+        "income": 77761.0,
+        "purchases": 70.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0341",
+        "name": "Customer_341",
+        "age": 37.0,
+        "gender": "Other",
+        "income": 141178.0,
+        "purchases": 39.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0342",
+        "name": "Customer_342",
+        "age": 25.0,
+        "gender": "Female",
+        "income": 56368.0,
+        "purchases": 56.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0343",
+        "name": "Customer_343",
+        "age": 24.0,
+        "gender": "Male",
+        "income": 26783.0,
+        "purchases": 63.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0344",
+        "name": "Customer_344",
+        "age": 20.0,
+        "gender": "Female",
+        "income": 131530.0,
+        "purchases": 46.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0345",
+        "name": "Customer_345",
+        "age": 34.0,
+        "gender": "Male",
+        "income": null,
+        "purchases": 88.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0346",
+        "name": "Customer_346",
+        "age": 50.0,
+        "gender": "Male",
+        "income": 90507.0,
+        "purchases": 11.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0347",
+        "name": "Customer_347",
+        "age": 65.0,
+        "gender": "Male",
+        "income": null,
+        "purchases": 62.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0348",
+        "name": "Customer_348",
+        "age": null,
+        "gender": "Female",
+        "income": 99026.0,
+        "purchases": 77.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0349",
+        "name": "Customer_349",
+        "age": 68.0,
+        "gender": null,
+        "income": 135893.0,
+        "purchases": null,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0350",
+        "name": "Customer_350",
+        "age": 39.0,
+        "gender": "Male",
+        "income": 131255.0,
+        "purchases": null,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0351",
+        "name": "Customer_351",
+        "age": 39.0,
+        "gender": "Female",
+        "income": 130616.0,
+        "purchases": 71.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0352",
+        "name": "Customer_352",
+        "age": 63.0,
+        "gender": "Male",
+        "income": null,
+        "purchases": 52.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0353",
+        "name": "Customer_353",
+        "age": 47.0,
+        "gender": "Male",
+        "income": 90835.0,
+        "purchases": 4.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0354",
+        "name": "Customer_354",
+        "age": 55.0,
+        "gender": null,
+        "income": 65765.0,
+        "purchases": 59.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0355",
+        "name": "Customer_355",
+        "age": 55.0,
+        "gender": "Male",
+        "income": 39956.0,
+        "purchases": null,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0356",
+        "name": "Customer_356",
+        "age": 62.0,
+        "gender": "Female",
+        "income": 107895.0,
+        "purchases": 20.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0357",
+        "name": "Customer_357",
+        "age": 68.0,
+        "gender": "Female",
+        "income": 66240.0,
+        "purchases": 93.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0358",
+        "name": "Customer_358",
+        "age": 25.0,
+        "gender": "Female",
+        "income": null,
+        "purchases": 63.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0359",
+        "name": "Customer_359",
+        "age": null,
+        "gender": "Male",
+        "income": 57148.0,
+        "purchases": 54.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0360",
+        "name": "Customer_360",
+        "age": 44.0,
+        "gender": "Male",
+        "income": 114270.0,
+        "purchases": 74.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0361",
+        "name": "Customer_361",
+        "age": 51.0,
+        "gender": "Male",
+        "income": 147978.0,
+        "purchases": 98.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0362",
+        "name": "Customer_362",
+        "age": 38.0,
+        "gender": "Female",
+        "income": 24757.0,
+        "purchases": 57.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0363",
+        "name": "Customer_363",
+        "age": 47.0,
+        "gender": "Male",
+        "income": 39097.0,
+        "purchases": 90.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0364",
+        "name": "Customer_364",
+        "age": 50.0,
+        "gender": "Female",
+        "income": 30395.0,
+        "purchases": 41.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0365",
+        "name": "Customer_365",
+        "age": 45.0,
+        "gender": "Other",
+        "income": 36241.0,
+        "purchases": 3.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0366",
+        "name": "Customer_366",
+        "age": 64.0,
+        "gender": "Female",
+        "income": 123892.0,
+        "purchases": 6.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0367",
+        "name": "Customer_367",
+        "age": 50.0,
+        "gender": "Female",
+        "income": 47696.0,
+        "purchases": 5.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0368",
+        "name": "Customer_368",
+        "age": 22.0,
+        "gender": "Male",
+        "income": 135654.0,
+        "purchases": 5.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0369",
+        "name": "Customer_369",
+        "age": 65.0,
+        "gender": "Female",
+        "income": null,
+        "purchases": 54.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0370",
+        "name": "Customer_370",
+        "age": 36.0,
+        "gender": "Female",
+        "income": 66163.0,
+        "purchases": 47.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0371",
+        "name": "Customer_371",
+        "age": 21.0,
+        "gender": "Female",
+        "income": 39816.0,
+        "purchases": 87.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0372",
+        "name": "Customer_372",
+        "age": 52.0,
+        "gender": "Male",
+        "income": 69840.0,
+        "purchases": 49.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0373",
+        "name": "Customer_373",
+        "age": 66.0,
+        "gender": "Male",
+        "income": 122547.0,
+        "purchases": 9.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0374",
+        "name": "Customer_374",
+        "age": 34.0,
+        "gender": "Male",
+        "income": 72853.0,
+        "purchases": 99.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0375",
+        "name": "Customer_375",
+        "age": 61.0,
+        "gender": "Female",
+        "income": 44917.0,
+        "purchases": 20.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0376",
+        "name": "Customer_376",
+        "age": 45.0,
+        "gender": "Female",
+        "income": 116731.0,
+        "purchases": 61.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0377",
+        "name": "Customer_377",
+        "age": 47.0,
+        "gender": "Female",
+        "income": 41566.0,
+        "purchases": 35.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0378",
+        "name": "Customer_378",
+        "age": 46.0,
+        "gender": "Male",
+        "income": null,
+        "purchases": 50.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0379",
+        "name": "Customer_379",
+        "age": 63.0,
+        "gender": "Female",
+        "income": 82823.0,
+        "purchases": 82.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0380",
+        "name": "Customer_380",
+        "age": 23.0,
+        "gender": "Male",
+        "income": 141392.0,
+        "purchases": 62.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0381",
+        "name": "Customer_381",
+        "age": 52.0,
+        "gender": "Male",
+        "income": 40806.0,
+        "purchases": 17.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0382",
+        "name": "Customer_382",
+        "age": 58.0,
+        "gender": "Male",
+        "income": 95520.0,
+        "purchases": 88.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0383",
+        "name": "Customer_383",
+        "age": 54.0,
+        "gender": "Female",
+        "income": 21759.0,
+        "purchases": 3.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0384",
+        "name": "Customer_384",
+        "age": 41.0,
+        "gender": "Male",
+        "income": 146092.0,
+        "purchases": 32.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0385",
+        "name": "Customer_385",
+        "age": 46.0,
+        "gender": "Female",
+        "income": 61949.0,
+        "purchases": 99.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0386",
+        "name": "Customer_386",
+        "age": 66.0,
+        "gender": "Female",
+        "income": 112374.0,
+        "purchases": 13.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0387",
+        "name": "Customer_387",
+        "age": 63.0,
+        "gender": "Male",
+        "income": 22482.0,
+        "purchases": 89.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0388",
+        "name": "Customer_388",
+        "age": 48.0,
+        "gender": "Female",
+        "income": 44442.0,
+        "purchases": 73.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0389",
+        "name": "Customer_389",
+        "age": 52.0,
+        "gender": "Male",
+        "income": 53719.0,
+        "purchases": 68.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0390",
+        "name": "Customer_390",
+        "age": 50.0,
+        "gender": "Male",
+        "income": 78066.0,
+        "purchases": 14.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0391",
+        "name": "Customer_391",
+        "age": 69.0,
+        "gender": "Male",
+        "income": 113501.0,
+        "purchases": 98.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0392",
+        "name": "Customer_392",
+        "age": 38.0,
+        "gender": "Male",
+        "income": 22079.0,
+        "purchases": 11.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0393",
+        "name": "Customer_393",
+        "age": 49.0,
+        "gender": "Female",
+        "income": 22717.0,
+        "purchases": 56.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0394",
+        "name": "Customer_394",
+        "age": 40.0,
+        "gender": "Male",
+        "income": 79676.0,
+        "purchases": 67.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0395",
+        "name": "Customer_395",
+        "age": 50.0,
+        "gender": "Female",
+        "income": 47952.0,
+        "purchases": null,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0396",
+        "name": "Customer_396",
+        "age": 20.0,
+        "gender": "Female",
+        "income": 106444.0,
+        "purchases": 29.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0397",
+        "name": "Customer_397",
+        "age": 35.0,
+        "gender": "Female",
+        "income": 62460.0,
+        "purchases": 9.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0398",
+        "name": "Customer_398",
+        "age": 42.0,
+        "gender": "Female",
+        "income": 110397.0,
+        "purchases": 67.0,
+        "churn": 1
+    },
+    {
+        "customer_id": "CUST0399",
+        "name": "Customer_399",
+        "age": 59.0,
+        "gender": "Female",
+        "income": 92847.0,
+        "purchases": 25.0,
+        "churn": 0
+    },
+    {
+        "customer_id": "CUST0400",
+        "name": "Customer_400",
+        "age": 48.0,
+        "gender": "Male",
+        "income": 113607.0,
+        "purchases": 98.0,
+        "churn": 1
+    }
+]
